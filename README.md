@@ -1,5 +1,5 @@
 # crashexp
-A simple member hanlding w ExpressJS **WITHOUT a database**
+A simple member handling w ExpressJS **WITHOUT a database**
 
 npm i:
 + nodemon (w/ -D)
